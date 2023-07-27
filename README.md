@@ -1,6 +1,8 @@
 ### Alpharmi
 I'm alpharmi and I work on a few specific projects time-to-time. Currently working on a site related to Honkai: Star Rail, check it out at: https://astral-express.vercel.app/
 
+@alpharmi discord
+
 ### Languages
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
