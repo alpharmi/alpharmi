@@ -1,5 +1,6 @@
 ### Alpharmi
-I'm alpharmi and I work on a few specific projects time-to-time. Currently working on a site related to Honkai: Star Rail, check it out at: https://astral-express.vercel.app/
+I'm alpharmi and I love my girl and gacha
+Checkout https://github.com/alpharmi/macchia.to
 
 @alpharmi discord
 
