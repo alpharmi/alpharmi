@@ -1,5 +1,6 @@
 ### Alpharmi
-I'm alpharmi and I love my girl and gacha
+I'm alpharmi and I love my girl and gacha.
+
 Checkout https://github.com/alpharmi/macchia.to
 
 @alpharmi discord
