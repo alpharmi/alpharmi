@@ -5,7 +5,7 @@ Checkout https://github.com/alpharmi/macchia.to
 
 @alpharmi discord
 
-### Languages
+### [Stack](https://en.touhouwiki.net/wiki/Stack)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
